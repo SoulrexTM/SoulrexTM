@@ -12,3 +12,4 @@ Hobbies :
 - Jeux vidéos
 - Programmation
 - Piano
+- Echec
