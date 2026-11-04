@@ -9,6 +9,6 @@ Compétences :
 -------------------------------------------------------------------
 
 Hobbies :
-- Jeux vidéoos
+- Jeux vidéos
 - Programmation
 - Piano
